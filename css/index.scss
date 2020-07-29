@@ -45,7 +45,7 @@ body {
     grid-template-columns: 1fr 4fr 2fr;
     gap: 2.8rem;
     background-color: #ffffff;
-    height: 110vh;
+    height: 120vh;
 
     .left {
         margin-left: 3rem;
@@ -261,6 +261,10 @@ body {
 
                 .data {
                     width: 100%;
+
+                    td {
+                        padding: 1rem;
+                    }
 
                     .summary {
                         h2 {

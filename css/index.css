@@ -45,7 +45,7 @@ body {
   grid-template-columns: 1fr 4fr 2fr;
   gap: 2.8rem;
   background-color: #ffffff;
-  height: 110vh;
+  height: 120vh;
 }
 
 .transaction .left {
@@ -253,6 +253,10 @@ body {
 
 .transaction .center .table-details .row-data .data {
   width: 100%;
+}
+
+.transaction .center .table-details .row-data .data td {
+  padding: 1rem;
 }
 
 .transaction .center .table-details .row-data .data .summary h2 {
