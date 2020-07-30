@@ -378,11 +378,14 @@ body {
                 margin-left: -1rem;
             }
 
-            p {
-                margin-top: 2rem;
+            .lists{
+                margin-top: 20rem;
                 margin-left: -2rem;
-                color: rgb(3, 0, 5);
-                font-size: 10px;
+
+                p {
+                    color: rgb(3, 0, 5);
+                    font-size: 10em;
+                }
             }
 
             .money {

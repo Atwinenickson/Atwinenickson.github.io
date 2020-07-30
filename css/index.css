@@ -359,11 +359,14 @@ body {
   margin-left: -1rem;
 }
 
-.transaction .right .info p {
-  margin-top: 2rem;
+.transaction .right .info .lists {
+  margin-top: 20rem;
   margin-left: -2rem;
+}
+
+.transaction .right .info .lists p {
   color: #030005;
-  font-size: 10px;
+  font-size: 10em;
 }
 
 .transaction .right .info .money {
