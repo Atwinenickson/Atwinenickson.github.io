@@ -45,7 +45,7 @@ body {
     grid-template-columns: 1fr 4fr 2fr;
     gap: 2.8rem;
     background-color: #ffffff;
-    height: 120vh;
+    height: 125vh;
 
     .left {
         margin-left: 3rem;
@@ -353,52 +353,6 @@ body {
                     }
                 }
             }
-
-            // .row-data {
-            //     margin-top: 2rem;
-
-            //     .date {
-            //         margin-top: 5rem;
-            //         color: #b8b9c0;
-            //     }
-
-            //     .resp-table {
-            //         width: 100%;
-            //         display: table;
-
-            //         .resp-table-body {
-            //             display: table-row-group;
-
-            //             .resp-table-row {
-            //                 display: table-row;
-
-            //                 .table-body-cell {
-            //                     display: table-cell;
-
-            //                     .summary {
-            //                         h2 {
-            //                             color: rgb(2, 0, 0);
-            //                             font-size: 1rem;
-            //                         }
-
-            //                         p {
-            //                             color: #b8b9c0;
-            //                         }
-            //                     }
-
-            //                     .dot {
-            //                         color: #f24941;
-            //                         margin-left: -5rem;
-            //                     }
-
-            //                     .amount {
-            //                         color: black;
-            //                     }
-            //                 }
-            //             }
-            //         }
-            //     }
-            // }
         }
     }
 
@@ -425,8 +379,8 @@ body {
             }
 
             p {
+                margin-top: 2rem;
                 margin-left: -2rem;
-                // color: #9e9e9e;
                 color: rgb(3, 0, 5);
                 font-size: 10px;
             }
