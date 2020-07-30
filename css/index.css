@@ -360,8 +360,10 @@ body {
 }
 
 .transaction .right .info .lists {
-  margin-top: 20rem;
-  margin-left: -2rem;
+  margin-top: 2rem;
+  margin-left: -4rem;
+  font-size: 1.35em;
+  color: #030005;
 }
 
 .transaction .right .info .lists p {
